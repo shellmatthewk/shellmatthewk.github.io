@@ -27,7 +27,7 @@ refreshes work on GitHub Pages without a client-side router. Internal links
 and assets are relative, which supports both user sites and project sites.
 notes.html remains as a small redirect so older links still work.
 
-The home page includes Research Groups with group names and dates, followed
+The home page includes Research Groups with group names, dates, and mentors, followed
 by Experience with the Amazon Project Kuiper and Lockheed Martin internships.
 The stencil and climate projects link to their NeurIPS 2026 workshop pages.
 

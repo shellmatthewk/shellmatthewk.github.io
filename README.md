@@ -9,9 +9,8 @@ circular profile area, and compact research rows. The content is Matthew Shell's
 
 The home page uses an MS monogram because no portrait was supplied. Replace
 `assets/profile-monogram.svg` and update the image's alt text in `index.html`
-when adding a portrait. The climate diagram is the supplied PNG, with a
-full-width version on the work page. The other research illustrations are
-schematic SVGs, not experimental results. Lato is served locally; its license is included in
+when adding a portrait. The stencil and climate diagrams are the supplied PNGs,
+with full-width versions on the work page. Lato is served locally; its license is included in
 `assets/fonts/OFL.txt`.
 
 ## Routes

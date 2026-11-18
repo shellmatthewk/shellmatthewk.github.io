@@ -9,8 +9,9 @@ circular profile area, and compact research rows. The content is Matthew Shell's
 
 The home page uses an MS monogram because no portrait was supplied. Replace
 `assets/profile-monogram.svg` and update the image's alt text in `index.html`
-when adding a portrait. The three research illustrations are schematic SVGs,
-not experimental results. Lato is served locally; its license is included in
+when adding a portrait. The climate diagram is the supplied PNG, with a
+full-width version on the work page. The other research illustrations are
+schematic SVGs, not experimental results. Lato is served locally; its license is included in
 `assets/fonts/OFL.txt`.
 
 ## Routes
@@ -25,6 +26,10 @@ Each route is a directory with its own index.html, so direct links and page
 refreshes work on GitHub Pages without a client-side router. Internal links
 and assets are relative, which supports both user sites and project sites.
 notes.html remains as a small redirect so older links still work.
+
+The home page includes Research Groups with group names and dates, followed
+by Experience with the Amazon Project Kuiper and Lockheed Martin internships.
+The stencil and climate projects link to their NeurIPS 2026 workshop pages.
 
 ## Local development
 

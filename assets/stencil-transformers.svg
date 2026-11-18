@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <rect width="240" height="160" fill="#fff"/>
+  <g fill="none" stroke="#8bb6d3" stroke-width="2">
+    <path d="M34 111Q34 30 120 43M77 111Q77 67 120 43M163 111Q163 67 120 43M206 111Q206 30 120 43"/>
+    <path d="M120 50V111" stroke="#d99756" stroke-width="3"/>
+  </g>
+  <g stroke="#7ba4bf" fill="#e5eef4" stroke-width="1.5">
+    <rect x="18" y="109" width="32" height="32" rx="3"/>
+    <rect x="61" y="109" width="32" height="32" rx="3"/>
+    <rect x="104" y="109" width="32" height="32" rx="3" fill="#f3ddc5" stroke="#cc955b"/>
+    <rect x="147" y="109" width="32" height="32" rx="3"/>
+    <rect x="190" y="109" width="32" height="32" rx="3"/>
+  </g>
+  <rect x="96" y="22" width="48" height="30" rx="4" fill="#dceaf3" stroke="#6898b7" stroke-width="1.5"/>
+  <g fill="#44647a" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">
+    <text x="120" y="42">u′</text>
+    <text x="34" y="130">−2</text><text x="77" y="130">−1</text>
+    <text x="120" y="130">0</text><text x="163" y="130">+1</text><text x="206" y="130">+2</text>
+  </g>
+</svg>

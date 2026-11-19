@@ -2,11 +2,6 @@
 
 Live site: [shellmatthewk.github.io](https://shellmatthewk.github.io/).
 
-A small multi-page academic website built with Vite and ready for GitHub Pages.
-The design follows [Iris Xu's website](https://irisjxu.github.io/), using the
-same 800px content width, Lato typography, blue links with orange hover states,
-circular profile area, and compact research rows. The content is Matthew Shell's.
-
 The home page uses an MS monogram because no portrait was supplied. Replace
 `assets/profile-monogram.svg` and update the image's alt text in `index.html`
 when adding a portrait. The stencil and climate diagrams are the supplied PNGs,
